@@ -1,0 +1,2 @@
+this file is test2.txt 
+written for training purposes only.
